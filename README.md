@@ -1,2 +1,0 @@
-# soundculture
-Online magasin
